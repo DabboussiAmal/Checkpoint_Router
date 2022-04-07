@@ -1,0 +1,22 @@
+h1{
+    font-size: 30px;
+}
+h5{
+    font-size: 15px;
+}
+.my-card {
+    width : 250px;
+    border : 2px solid black;
+    margin:70px;
+    border-radius:20px;
+    background: rgba( 194, 149, 149, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.my-card img{
+    width: 100% !important;
+    border-radius: 20px;
+}
